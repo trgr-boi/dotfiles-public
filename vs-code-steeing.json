@@ -1,0 +1,43 @@
+{
+    "editor.snippetSuggestions": "top",
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    
+    "editor.fontFamily": "anonymous pro",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 0,
+    
+    "terminal.integrated.fontSize": 17,
+    
+    "workbench.statusBar.visible": true,
+    "workbench.sideBar.location": "right",
+
+    "explorer.confirmDragAndDrop": false,
+    "better-comments.highlightPlainText": true,
+
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme" : "Gruvbox Light Soft",
+    "workbench.preferredDarkColorTheme" : "Gruvbox Dark Medium",
+
+    "workbench.iconTheme": "vscode-icons",
+    "hediet.vscode-drawio.resizeImages": null,
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+}
+
+// EXTENTIONS
+// - Gruvbox Theme
+// - vim
+// FontSize Shortcuts
+// Relative Line Numbers
+// Svg Preview
+// - vscode-icons
+// - Markdown Preview Enhanced
+// - vscode-pdf
+// - Liver Server
+// - Draw.io Integration
